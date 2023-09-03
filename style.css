@@ -1,0 +1,152 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    direction: ltr;
+    background-color: rgba(172, 172, 172, 0.575);
+}
+.container{
+    /* margin:0 30px 0 30px; */
+}
+#padding_tb{
+    padding:20PX 10px;
+
+}
+.bener_1{
+    background-image:url(imag/5842951fa6515b1e0ad75ad0.png) ,url(imag/exJTXDm-louis-vuitton-wallpapers.jpg);
+    background-size:200px,500px;
+    background-position:center ;
+    background-repeat:no-repeat,repeat;
+    height:350px;
+}
+.bener_2{
+background-image:url(imag/Gucci-Logo-Transparent-PNG.png), url(imag/gucci-logo-print-12.jpg);
+background-size:300px,auto;
+    background-position:center,center ;
+    background-repeat:no-repeat,repeat;
+height:350px;
+}
+.bener_3{
+    background-image: url(imag/wallpaperflare.com_wallpaper.jpg);
+    background-size: contain;
+    height:350px;
+}
+.bener_4{
+  background-image: url(imag/915774.jpg); 
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.692);
+  height:350px; 
+}
+.bener_5{
+    background-image: url(imag/png-transparent-versace-background-2.png);
+    background-repeat: repeat;
+    background-position: center;
+    height:350px;
+}
+.bener_6{
+    background-image: url(imag/ralph\ lauren\ polo\ logo\ Logospikecom\ Famous\ and\ Free\ Vector\ Logos.jpg);
+    background-size:1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    height:350px;
+}
+.bener_7{
+    background-image:url(imag/burberry.jpg), url(imag/bbb.jpg);
+    background-size:500px,auto;
+  background-repeat:no-repeat,repeat;
+  background-position: center;
+    height:350px;
+}
+.card_1{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: rgb(78 58 51);
+    /* margin-top:10px; */
+    height:200px;
+}
+.card_2{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color:  #bbaa87;
+    /* margin-top:10px; */
+    height:200px;
+}
+.card_3{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color:#bf4f0d;
+    /* margin-top:10px; */
+    height:200px;
+}
+.card_4{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #404040;
+    /* margin-top:10px; */
+    height:200px;
+}
+.card_5{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #d0aa5e;
+    /* margin-top:10px; */
+    height:200px;
+}
+.card_6{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color:black;
+    /* margin-top:10px; */
+    height:200px;
+}
+.card_7{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: rgb(183 153 100);
+    /* margin-top:10px; */
+    height:200px;
+    
+}
+.flex_1{
+background-color: rgba(252, 252, 252, 0.863);
+height:170px;
+width:23%;
+}
+.flex_2{
+    background-color: rgba(252, 252, 252, 0.863);
+    height:170px;
+    width:23%;
+}
+.flex_3{
+    background-color:  rgba(252, 252, 252, 0.863);
+    height:170px;
+    width:23%;
+}
+.flex_4{
+    background-color:  rgba(252, 252, 252, 0.863);
+    height:170px;
+    width:23%;
+}
